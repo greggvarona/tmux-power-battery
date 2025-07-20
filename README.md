@@ -17,7 +17,7 @@ A tmux plugin that displays battery information in your tmux status bar. Works s
 Add plugin to the list of TPM plugins in `.tmux.conf`:
 
 ```tmux
-set -g @plugin 'wfxr/tmux-power-battery'
+set -g @plugin 'gregg/tmux-power-battery'
 ```
 
 Hit `prefix + I` to fetch the plugin and source it.
@@ -27,7 +27,7 @@ Hit `prefix + I` to fetch the plugin and source it.
 Clone the repo:
 
 ```bash
-git clone https://github.com/wfxr/tmux-power-battery ~/clone/path
+git clone https://github.com/gregg/tmux-power-battery ~/clone/path
 ```
 
 Add this line to your `.tmux.conf`:
