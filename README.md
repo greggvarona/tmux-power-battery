@@ -1,6 +1,6 @@
 # tmux-power-battery
 
-A tmux plugin that displays battery information in your tmux status bar. Works seamlessly with [tmux-power](https://github.com/wfxr/tmux-power).
+A tmux plugin that displays battery information in your tmux status bar. Works seamlessly with [tmux-power](https://github.com/wfxr/tmux-power) (with a bit of tweaks... not shown in this repo).
 
 ## Features
 
