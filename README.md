@@ -122,6 +122,3 @@ set -g @tmux_power_battery_percentage '#{battery_percentage}'
 - **Linux**: `acpi` package (optional, for time remaining)
 - **FreeBSD/OpenBSD**: `apm` utility
 
-## License
-
-MIT
